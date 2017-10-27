@@ -1,0 +1,2 @@
+$ python bank_check_ocr.py --image example_check.png \
+	--reference micr_e13b_reference.png
